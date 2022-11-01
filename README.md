@@ -138,4 +138,4 @@ Business:
 ### Dashboard
 
 [Dashboard Tableau](https://public.tableau.com/app/profile/tamara.coglitore/viz/pricetrend/Dashboard2?publish=yes)
-![alt text](https://github.com/PurwadhikaDev/OmegaTeam_JC_DS_LS_02_FinalProject/blob/main/Dashboard%202(1).png)
+![alt text](https://github.com/faykelnicandro/Final-Project-Purwadhika-JCDS/blob/main/DC%20Residential%20Properties%20-%20Dashboard.png)
