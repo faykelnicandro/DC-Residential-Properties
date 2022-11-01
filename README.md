@@ -2,9 +2,9 @@
 # DC Residential Properties
 
 Team members:   
-1. Faykel Nicandro Hattu
-2. Muhammad Rafi Amiruddin  
-3. Tamara Coglitore
+1. [Faykel Nicandro Hattu](https://github.com/faykelnicandro)
+2. [Muhammad Rafi Amiruddin](https://github.com/Muhrafix)
+3. [Tamara Coglitore](https://github.com/tamaracoglitore)
 
 ### Source
 [(Dataset)](https://www.kaggle.com/datasets/christophercorrea/dc-residential-properties?select=DC_Properties.csv)
