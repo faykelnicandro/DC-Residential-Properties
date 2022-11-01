@@ -1,4 +1,4 @@
-# Final-Project-Purwadhika-JCDS
+# Final Project - Purwadhika JCDS
 # DC Residential Properties
 
 Team members:   
